@@ -9,7 +9,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #DC143C;
     border-radius: 0;
     border: 0;
 }
@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #FFEFD5;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -45,7 +45,7 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #DC143C;
 }
 
 #nav-list a {
@@ -93,7 +93,6 @@ body {
     padding: 20px;
     background-color: #DDA0DD;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
 }
 
 
