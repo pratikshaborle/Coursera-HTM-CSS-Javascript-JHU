@@ -2,7 +2,7 @@
 Solutions of Coursera- "HTML, CSS and Javascript for Web Developers" (by Johns Hopkins University) course assignments
 
 Module 2 :
-Assignment Link - https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
+Assignment Link - https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md \n
 Solution Link - https://pratikshaborle.github.io/Coursera-HTM-CSS-Javascript-JHU/module2-solution
 
 Module 3 :
